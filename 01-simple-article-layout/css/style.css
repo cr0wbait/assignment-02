@@ -1,0 +1,40 @@
+{box-sizing: border-box;}
+
+body {
+font-family: Georgia;
+font-weight: 100;
+font-size: 20px;
+background-color: #FBF9F1;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 22px;
+  display: inline-block;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+#all {
+  background-color: #FBF9F1;
+  font-family: Georgia;
+  width: 480px;
+  line-height: 1.25;
+  margin-left: 100px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 300px;
+}
+
+.mbdes {
+  text-decoration: underline;
+
+}
+
+.mon {
+  background-color: black;
+  color: #FBF9F1;
+  font-family: "Geneva";
+}
